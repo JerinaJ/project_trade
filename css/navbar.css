@@ -1,0 +1,26 @@
+
+.top_bar { min-height:40px;
+ /* 
+
+}
+background: #30bed6; /* Old browsers */
+background: -moz-linear-gradient(left, #007038 0%, #FFF 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #007038 0%,#FFF 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #007038 0%,#FFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007038', endColorstr='#38cac9',GradientType=1 ); /* IE6-9 */}
+
+.social { list-style-type:none; margin-bottom:0px; float:left; padding:0px; margin-left:20px;}
+.social li { float:left;}
+.social li a { padding:0 10px; font-size:13px; line-height:40px; color:#FFF;}
+
+.rightc { list-style-type:none; margin-bottom:0px; float:right; margin-right:0px;}
+.rightc li { margin:0px 10px; font-size:13px; float:left; line-height:40px; color:#FFF;}
+.rightc li a {   color:#FFF; }
+
+.navbar-brand img { margin-top:0px; margin-left:0px;position: relative;z-index: 5;}
+.navbar-brand {padding:0px;}
+
+.header_image { margin-top:-70px; float:left;}
+.nav.navbar-nav.navbar-right span {font-family: 'Open Sans'; font-style:italic; font-weight:300; color:#1b6977;}
+.navbar-right li a {font-family: 'Open Sans'; font-size:16px; color:#fff !important;}
+.dropdown-menu{background-color: #007038;}
